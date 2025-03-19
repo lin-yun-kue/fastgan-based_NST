@@ -1,0 +1,13 @@
+{
+  "path": "C:\\Users\\b4088\\OneDrive\\Desktop\\DeepLearning\\Assignment\\FinalProject\\FastGAN-pytorch\\Input\\100-shot-grumpy_cat",
+  "output_path": "C:\\Users\\b4088\\OneDrive\\Desktop\\DeepLearning\\Assignment\\FinalProject\\FastGAN-pytorch\\Output",
+  "cuda": 0,
+  "name": "test1",
+  "iter": 100,
+  "start_iter": 0,
+  "batch_size": 8,
+  "im_size": 256,
+  "ckpt": "None",
+  "workers": 2,
+  "save_interval": 1
+}
