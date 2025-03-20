@@ -39,7 +39,7 @@ lowing the model to learn and retain redness. Without this
 augmentation, we observed that the model tended to shift
 the colors toward green since Impressionism depicts nature
 scenes so the color spectrum leans to green hue. We can
-observe second row of figure6. After performing transfer
+observe second row of below figure. After performing transfer
 learning the color of picture seriously bias to green, whereas
 after performing data augmentation, the image is closer to
 
@@ -50,3 +50,8 @@ tation
 
 
 ![Augmentation](MDImage/Augmentation.png)
+
+### Important notes
+<ol>
+<li> The implement of project is trans_learning.ipynb file
+</ol>
